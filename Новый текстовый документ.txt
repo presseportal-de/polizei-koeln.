@@ -1,0 +1,32 @@
+﻿• <!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Polizei Köln</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+<h1>Willkommen auf der offiziellen Website der Polizei Köln</h1>
+<nav>
+<ul>
+<li><a href="index.html">Startseite</a></li>
+<li><a href="about.html">Über uns</a></li>
+<li><a href="incident.html">Festnahme von Personen</a></li>
+<li><a href="contact.html">Kontakt</a></li>
+</ul>
+</nav>
+</header>
+<main>
+<section>
+<h2>Aktuelle Nachrichten</h2>
+<p>Hier finden Sie detaillierte Informationen über einen kürzlichen Vorfall mit der Festnahme einer Gruppe von Erwachsenen um 4 Uhr morgens am Samstag in Köln. Die Personen waren in eine Verfolgungsjagd, einen Unfall und weitere illegale Aktivitäten verwickelt.</p>
+</section>
+</main>
+<footer>
+<p>&copy; 2024 Polizei Köln</p>
+</footer>
+</body>
+</html>
+
