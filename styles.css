@@ -59,7 +59,6 @@ body {
     color: white;
     text-align: center;
     padding: 10px 0;
-    position: relative; /* изменено на relative */
     width: 100%;
     display: flex;
     justify-content: space-between;
@@ -90,13 +89,14 @@ body {
 @media (max-width: 768px) {
     .footer-container {
         flex-direction: column;
+        text-align: left; /* Выравнивание текста на мобильных устройствах */
     }
     .contact-info, .legal-info {
         padding: 10px;
-        text-align: left; /* выравнивание текста на мобильных устройствах */
-        width: 100%; /* ширина на мобильных устройствах */
+        text-align: left; /* Выравнивание текста на мобильных устройствах */
+        width: 100%; /* Ширина на мобильных устройствах */
     }
     .legal-info {
-        text-align: left; /* выравнивание юридической информации на мобильных устройствах */
+        text-align: left; /* Выравнивание юридической информации на мобильных устройствах */
     }
 }
